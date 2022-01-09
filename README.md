@@ -2,10 +2,10 @@
 
 ![sauron](https://upload.wikimedia.org/wikipedia/tr/3/3a/Sauron.jpg)
 
-**What is Distributed .NET Core?**
+**What is Distributed ?**
 ----------------
 
-It's an in house project  [sauron](https://tr.wikipedia.org/wiki/Sauron), providing in-depth knowledge about building microservices using [.NET Core](https://www.microsoft.com/net/learn/get-started-with-dotnet-tutorial), [python](https://www.python.org/) and [golang](https://go.dev/) framework and variety of tools. One of the goals, was to create a cloud agnostic solution, that you shall be able to run anywhere. 
+It's an in house project  [sauron](https://tr.wikipedia.org/wiki/Sauron), providing in-depth knowledge about building microservices using [.NET Core](https://www.microsoft.com/net/learn/get-started-with-dotnet-tutorial), [python](https://www.python.org/) and [golang](https://go.dev/) framework and variety of tools. One of the goals, was to create a cloud agnostic solution, that you shall be able to run anywhere. Or you can reach out to tutorial from [udacity]https://classroom.udacity.com/courses/ud615
 
 **What topics will be discussed?**
 ----------------
