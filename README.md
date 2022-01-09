@@ -96,3 +96,6 @@ services:
 
 # Design Overview
 ![Aeron Architecture](./assets/sauron.png)
+
+# TechStack
+https://stackshare.io/turknet-noctools-team/turknet-noctools-team
