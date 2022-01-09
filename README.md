@@ -92,3 +92,7 @@ services:
     ports:
       - '6379:6379'
 ```
+
+
+# Design Overview
+![Aeron Architecture](./assets/sauron.png)
