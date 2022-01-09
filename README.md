@@ -14,6 +14,9 @@ A lot of them, covering different aspects of building distributed services, whet
 
 Just to name a few:
 - [RESTful API](https://www.restapitutorial.com) implementation with [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/?view=aspnetcore-2.2)
+- [Consumers](https://github.com/bilalislam/torc) implementation with [Golang](https://go.dev/)
+- [UI](https://www.fullstackpython.com/flask.html) implementation with [Flask](https://www.fullstackpython.com/flask.html)
+- [Tnmon SIEM](https://en.wikipedia.org/wiki/Security_information_and_event_management) implementation with [React](https://github.com/facebook/react)
 - [Domain Driven Design](http://dddcommunity.org) fundamentals
 - SQL and NoSQL databases ([SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017), , [InfluxDB](https://www.influxdata.com))
 - Distributed caching with [Redis](https://redis.io)
@@ -28,6 +31,13 @@ Just to name a few:
 - CI & CD with build services such as [Azure Devops](https://dev.azure.com/turknet-it), [Azure Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/)
 - Deploying services to the Linux Servers and configuring [Nginx](https://www.nginx.com)
 - Orchestrating services on your VM or in the Cloud using [Kubernetes](https://kubernetes.io)
+
+# ⚡ Favorite languages and tools
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
 
 **Which repositories should I clone?**
