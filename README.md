@@ -56,7 +56,7 @@ Please clone the following repositories and put them into the same working direc
 - [Noctools-Sauron-InfluxApi](https://dev.azure.com/turknet-it/Tn.Noctools.Influx.Api)
 - [Noctools-Sauron-MessageBridge-WebHook](https://dev.azure.com/turknet-it/Tn.NocTools.MessageBridge)
 - [Noctools-Sauron-Anakin-Consumer](https://dev.azure.com/turknet-it/Tn.Noctools.Anakin.Consumer)
-- [Noctools-Sauron-Monitor-Api](https://dev.azure.com/turknet-it/Tn.Noctools.Monitor)
+- [Noctools-Sauron-Monitor-Api](https://dev.azure.com/turknet-it/Tn.Noctools.Monitor/_git/Tn.Noctools.Monitor.Api)
 - [Noctools-Sauron-Monitor-Client](https://dev.azure.com/turknet-it/Tn.Noctools.Monitor/_git/Tn.Noctools.Monitor.Client)
 
 
